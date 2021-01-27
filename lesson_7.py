@@ -9,6 +9,6 @@
 def my_func(name):
     print(f'Hello, {name}')
     return
-names = ['Dima', 'Oleg', 'Kira', 'Vadim']
+names = ['Dima', 'Oleg', 'Kira', 'Vadim','Alex']
 for i in names:
     my_func(i)
